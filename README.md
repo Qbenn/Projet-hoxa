@@ -7,11 +7,11 @@ Podstawy Konstrukcji Maszyn (PKM).
 
 | Plik | Opis |
 |---|---|
-| `PKM6_nowy_ok-5.pdf` | Dokumentacja obliczeniowa projektu |
-| `zlozenieJP.pdf` | Rysunek złożeniowy |
-| `BierneJP.pdf` | Koło bierne (rysunek wykonawczy) |
-| `wałJP.pdf` | Wał (rysunek wykonawczy) |
-| `assembly1 — kopia.stl` | Model 3D złożenia (STL) |
+| `design-calculations.pdf` | Dokumentacja obliczeniowa projektu |
+| `assembly-drawing.pdf` | Rysunek złożeniowy |
+| `driven-wheel-drawing.pdf` | Koło bierne (rysunek wykonawczy) |
+| `shaft-drawing.pdf` | Wał (rysunek wykonawczy) |
+| `fan-assembly.stl` | Model 3D złożenia (STL) |
 
 ## Technologie
 
